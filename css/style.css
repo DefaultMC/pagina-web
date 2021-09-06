@@ -214,7 +214,7 @@ header .container{
 
 .person{
     width: 100%;
-    transform: translate(35%, -1px);
+    transform: translate(25%, -1px);
 }
 
 .toggle-btn{
